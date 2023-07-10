@@ -1,0 +1,12 @@
+.vscode
+.idea
+
+.env
+.env.local
+.env.development
+.dev.staging
+.dev.production
+
+poetry.lock
+.venv
+__pycache__
